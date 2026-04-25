@@ -1,6 +1,3 @@
 # Emotion Detector
 
-This project detects emotions from text using IBM Watson NLP.
-
-## How to run
-python server.py
+This project is an AI-based web application that detects emotions from text using IBM Watson NLP.
